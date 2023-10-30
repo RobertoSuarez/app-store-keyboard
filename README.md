@@ -1,4 +1,4 @@
-# React Template（⚡️）
+# React Template（⚡️） aplicando cambios
 
 ⚡️ A minimal React Vite starter template.
 
